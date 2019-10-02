@@ -1,15 +1,8 @@
 # read-csv
 Test Read CSV Faktur
 
-Install CSV Parse 
-fast-csv
+- Install CSV Parse with fast-csv
+yarn add fast-csv or npm install -s fast-csv
 
-With Yarn
-yarn add fast-csv 
-
-With NPM
-npm install -s fast-csv
-
-run App
-
+- Run App
 node main.js
